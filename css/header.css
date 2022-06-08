@@ -1,0 +1,22 @@
+nav {
+    margin-left: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+#headertitle {
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#button {
+    color: #f29c1f;
+    border-color: #f29c1f;
+}
+
+#button:hover {
+    background-color: #e64c3c;
+    border-color: #e64c3c;
+    color: white;
+  }

@@ -1,0 +1,4 @@
+colorscheme: 
+    main-color: #f29c1f
+    secondary-color: #e64c3c
+    thirtiary-color: #f3d55b

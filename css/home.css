@@ -1,0 +1,34 @@
+.container {
+    margin-top: 100px;
+}
+
+.card {
+    border: #f3d55b 12px;
+    color: #f29c1f;
+    margin-bottom: 40px;
+    padding: 12px;
+}
+
+.buttoncard {
+    color: #f29c1f;
+    margin-bottom: 40px;
+}
+
+.button {
+    color: #f29c1f;
+    border-color: #f29c1f;
+    border-radius: 12px;
+}
+
+.button:hover {
+    background-color: #e64c3c;
+    border-color: #e64c3c;
+    color: white;
+  }
+
+.photo {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 383px;
+    width: 286px;
+}
